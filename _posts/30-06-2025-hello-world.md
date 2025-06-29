@@ -1,7 +1,7 @@
 ---
-title: "Hello World"
-date: 2025-06-30 3:15 +0300
-categories: [Blogging, Tutorial]
+title: Hello World
+date: 2025-06-30 3:35 +0800
+categories: [Hello, World]
 tags: [github-pages, blog, personal blog, jekyll]
 author: Asad Faizee
 ---
