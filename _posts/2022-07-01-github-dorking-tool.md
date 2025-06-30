@@ -8,4 +8,4 @@ comments: true
 
 You can use the live GitHub Dork Generator below:
 
-<iframe src="https://github.com/Faizee-Asad/faizee_asad.github.io/blob/main/assets/img/github-dork.html" width="100%" height="600" style="border:none;"></iframe>
+<iframe src="/assets/img/github-dork.html" width="100%" height="600" style="border:none;"></iframe>
