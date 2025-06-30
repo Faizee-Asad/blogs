@@ -6,4 +6,4 @@ categories: [Tool]
 
 You can use the live GitHub Dork Generator below:
 
-<iframe src="/assets/tool/dork-tool.html" width="100%" height="600" style="border:none;"></iframe>
+<iframe src="/assets/github-dork.html" width="100%" height="600" style="border:none;"></iframe>
