@@ -36,9 +36,7 @@ On the top-right of the email (next to reply), click the three-dot menu.
 
 From the dropdown, select **"Show original"**.
 
-![Gmail Show Original](![17512838935265128874604038441716](https://github.com/user-attachments/assets/47ff11e7-f113-43da-bc36-cebc234dedea)
-)
-
+![Gmail Show Original](https://blogcdn.gmass.co/blog/wp-content/uploads/2021/11/Show-original.png)
 ---
 
 ### 📺 Watch This Tutorial (YouTube)
