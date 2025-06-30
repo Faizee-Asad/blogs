@@ -70,7 +70,7 @@ You need to visit one of the domain name registrar to buy a custom domain. There
 * [Google Domains](https://domains.google)
 * [Name Cheap](https://www.namecheap.com/)
 * ... and many more
-
+. 
 *I personally chose GoDaddy since I had to pay ~10$ for 2-years plan*
 
 ### Configure Your Domain
