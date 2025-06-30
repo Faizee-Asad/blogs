@@ -1,6 +1,6 @@
 ---
 title: "GitHub Dorking Tool"
-date: 2025-07-01 12:00:00 +0530
+date: 2022-07-01 12:00:00 +0530
 categories: [Tool]
 tags: [github, dork, osint]
 comments: true
