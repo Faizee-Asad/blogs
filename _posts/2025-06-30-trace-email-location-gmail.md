@@ -53,6 +53,8 @@ You can also follow this video walkthrough:
 
 Click the **"Copy to clipboard"** button to copy the full header content.
 
+![Download Email Header](https://blogcdn.gmass.co/blog/wp-content/uploads/2021/11/Download-original.png)
+
 ---
 
 ### 6. Use Email Tracer Tool
