@@ -38,7 +38,15 @@ From the dropdown, select **"Show original"**.
 
 ![Gmail Show Original](https://i.imgur.com/xUHRYbY.png)
 
-This will open a new tab with the full **email header**.
+---
+
+### 📺 Watch This Tutorial (YouTube)
+
+You can also follow this video walkthrough:
+
+<div align="center">
+  <iframe width="100%" height="400" src="https://www.youtube.com/embed/gJQZ807v5nc" title="Trace Email Location in Gmail" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ---
 
