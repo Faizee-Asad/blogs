@@ -10,7 +10,7 @@ Cybersecurity professionals and attackers both rely on understanding how passwor
 
 ---
 
-## ðŸ” Bruteforce Attack
+## Bruteforce Attack
 
 Bruteforce attacks try every possible combination of characters until the correct password is found.
 
@@ -36,7 +36,7 @@ Then use tools like **Hydra**, **Medusa**, or **John the Ripper** to attack the 
 
 ---
 
-## ðŸ“š Dictionary Attack
+## Dictionary Attack
 
 Dictionary attacks use a file (wordlist) with commonly used passwords.
 
@@ -58,7 +58,7 @@ Then use the list to try login combinations using your preferred tool.
 
 ---
 
-## ðŸ”€ Hybrid Attack
+## Hybrid Attack
 
 Hybrid attack = Dictionary + Bruteforce.
 
@@ -74,7 +74,7 @@ Use `John the Ripper` or `Hashcat` in hybrid mode.
 
 ---
 
-## ðŸ§¾ Credential Stuffing
+## Credential Stuffing
 
 Attackers use leaked credentials from one platform to try on others.
 
@@ -95,7 +95,7 @@ Tools often used: `SentryMBA`, `Snipr`, `OpenBullet`.
 
 ---
 
-## ðŸŒˆ Rainbow Table Attack
+## Rainbow Table Attack
 
 A **rainbow table** is a pre-computed list of hash values mapped to original words.
 
@@ -120,15 +120,15 @@ Tools:
 
 ---
 
-## ðŸ›¡ï¸ Conclusion
+## Conclusion
 
 Understanding these attacks helps you protect systems:
 
-- âœ… Always use strong, random passwords  
-- âœ… Enable two-factor authentication (2FA)  
-- âœ… Monitor for credential leaks  
-- âœ… Use a password manager  
+- Always use strong, random passwords  
+- Enable two-factor authentication (2FA)  
+- Monitor for credential leaks  
+- Use a password manager  
 
-> Stay safe and keep learning cybersecurity ethically!
+Stay safe and keep learning cybersecurity ethically!
 
 ---
